@@ -1,0 +1,49 @@
+---
+layout: default
+title: Finals
+description: Die Endrunden.
+featured_image: /images/informaticup.jpg
+---
+
+<section class="hero">
+
+	<div class="hero__image" style="background-image: url({{ page.featured_image }})">
+		<div class="hero__overlay"></div>
+	</div>
+
+	<div class="wrap">
+
+		<h1>Finals</h1>
+		<p>Die Endrunden</p>
+
+	</div>
+
+</section>
+
+<section class="listing">
+
+	<div class="wrap">
+
+		{% for f in site.finals reversed %}
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url({{ f.featured_image }})"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="{{ f.url }}">{{ f.title }}</a></h2>
+					<p class="post__subtitle">{{ f.subtitle }}</p>
+					<p class="post__description">{{ f.description }}</p>
+				</div>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+	</div>
+
+</section>

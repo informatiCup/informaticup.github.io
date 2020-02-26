@@ -1,1 +1,81 @@
-theme: jekyll-theme-cayman
+site: Alexander Paar
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
+  competition:
+    output: true
+    permalink: /competition/:slug
+  finals:
+    output: true
+    permalink: /finals/:slug
+  challenges:
+    output: true
+    permalink: /challenges/:slug
+  about:
+    output: true
+    permalink: /about/:slug
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "competition"
+    values:
+      layout: "project"
+  -
+    scope:
+      path: ""
+      type: "finals"
+    values:
+      layout: "project"
+  -
+    scope:
+      path: ""
+      type: "challenges"
+    values:
+      layout: "project"
+  -
+    scope:
+      path: ""
+      type: "about"
+    values:
+      layout: "project"
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+  
