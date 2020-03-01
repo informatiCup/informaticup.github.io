@@ -12,7 +12,7 @@ Der GI InformatiCup fordert Studierende heraus, sich eigenständig in neue Techn
 
 Die Aufgabenstellung erfordert theoretisches Wissen, die Befähigung zu wissenschaftlichen Problemlösungen sowie moderne Präsentationstechniken.
 
-Der Wettbewerb findet seit 2015 jährlich statt und wird von renommierten Unternehmen unterstützt. Zu gewinnen gibt es attraktive Geldpreise.
+Der Wettbewerb findet seit 2006 jährlich statt und wird von renommierten Unternehmen unterstützt. Zu gewinnen gibt es attraktive Geldpreise.
 
 ## Warum teilnehmen? ##
 
