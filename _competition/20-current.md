@@ -8,7 +8,7 @@ featured_image: '/images/competition/current.png'
 
 ## Zeitplan des aktuellen Wettbewerbs ##
 
-**25\. September 2019**: Start des Wettbewerbs
+**25\. September 2019**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](/challenges/pandemie)
 
 **01\. November 2019**: Beginn der Annahme von Lösungsentwürfen (optional). Sie erhalten ein Feedback.
 
