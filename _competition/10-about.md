@@ -36,7 +36,7 @@ Zur Lösung der Aufgabenstellung sind theoretisches Wissen, die Fähigkeit zur e
 
 Die Wettbewerbsaufgabe des informatiCup ist sehr anspruchsvoll und bedarf – selbst für Teams mit bis zu vier Personen – einen nicht unerheblichen Aufwand an Zeit. Deshalb soll die Teilnahme am Wettbewerb für die Studierenden nicht etwas völlig Zusätzliches sein, sondern die erbrachten Leistungen könnten auf das Studium angerechnet werden, zum Beispiel im Rahmen von Programmierpraktika oder sonstiger Übungen.
 
-Die GI empfiehlt dafür die Vergabe von mindestens vier ECTS-Punkten pro Mitglied des Teams. Einzelne Hochschule vergeben auch mehr Punkte. Wenden Sie sich an Ihre/n [GI-Botschafterinnen und Botschafter](https://gi.de/netzwerk/hochschulen/botschafterinnen). Fragen dazu bitte per E-Mail.
+Die GI empfiehlt dafür die Vergabe von mindestens vier ECTS-Punkten pro Mitglied des Teams. Einzelne Hochschule vergeben auch mehr Punkte. Wenden Sie sich an Ihre/n [GI-Botschafterinnen und Botschafter](https://gi.de/netzwerk/hochschulen/botschafterinnen). Fragen dazu bitte per E-Mail an [Ludger Porada](mailto:ludger.porada@gi.de?subject=InformatiCup).
 
 <div class="gallery" data-columns="1">
 	<img src="/images/competition/informaticup.jpg">
