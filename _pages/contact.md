@@ -5,7 +5,7 @@ description: Kontakt zum InformatiCup.
 featured_image: /images/informaticup.jpg
 ---
 
-| Email: | [InformatiCup Team](javascript:linkTo_UnCryptMailto(%27ocknvq%2Cnwfigt0rqtcfcBik0fg%27);) |
+| Email: | [InformatiCup Team](javascript:linkTo_UnCryptMailto('nbjmup;mvehfs/qpsbebAhj/ef');) |
 
 ---
 
