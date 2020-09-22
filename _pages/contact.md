@@ -5,7 +5,7 @@ description: Kontakt zum InformatiCup.
 featured_image: /images/informaticup.jpg
 ---
 
-| Email: | [InformatiCup Team](javascript:linkTo_UnCryptMailto('nbjmup;mvehfs/qpsbebAhj/ef');) |
+| Email: | [InformatiCup Team](mailto:ludger.porada@gi.de) |
 
 ---
 
