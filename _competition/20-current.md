@@ -12,6 +12,6 @@ featured_image: '/images/competition/current.png'
 
 **02\. November 2020**: Beginn der Annahme von Lösungsentwürfen (optional). Sie erhalten ein Feedback.
 
-**17\. Januar 2020 (einschl. 23:59 Uhr)**: Ende der Annahme der vollständigen Lösung
+**17\. Januar 2021 (einschl. 23:59 Uhr)**: Ende der Annahme der vollständigen Lösung
 
-**März 2020**: InformatiCup-Finale
+**März 2021**: InformatiCup-Finale
