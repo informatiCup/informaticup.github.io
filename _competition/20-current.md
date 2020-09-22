@@ -8,7 +8,7 @@ featured_image: '/images/competition/current.png'
 
 ## Zeitplan des aktuellen Wettbewerbs ##
 
-**30\. September 2020**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](/challenges/spe_ed)
+**30\. September 2020**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](/challenges/spe-ed)
 
 **02\. November 2020**: Beginn der Annahme von Lösungsentwürfen (optional). Sie erhalten ein Feedback.
 
