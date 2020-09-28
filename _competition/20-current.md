@@ -12,6 +12,8 @@ featured_image: '/images/competition/current.png'
 
 **02\. November 2020**: Beginn der Annahme von Lösungsentwürfen (optional). Sie erhalten ein Feedback.
 
+**30\. November 2020**: Ende der Anmeldefrist für den InformatiCup 2021
+
 **17\. Januar 2021 (einschl. 23:59 Uhr)**: Ende der Annahme der vollständigen Lösung
 
 **März 2021**: InformatiCup-Finale
