@@ -21,26 +21,6 @@ featured_image: /images/informaticup.jpg
 </a>
 </p>
 
-<p>
-<a href="https://www.netlight.com/">
-<img border="0" alt="Netlight" src="/images/sponsors/netlight.png">
-</a>
-</p>
-
-<p>
-<a href="https://www.genua.de/">
-<img border="0" alt="genua GmbH" src="/images/sponsors/genua.jpg">
-</a>
-</p>
-
-## Veranstaltungspartner
-
-<p>
-<a href="http://www.autouni.de/">
-<img border="0" alt="AutoUni " src="/images/sponsors/autouni.png">
-</a>
-</p>
-
 ## Technischer Support
 
 <p>
