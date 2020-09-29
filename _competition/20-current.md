@@ -17,3 +17,7 @@ featured_image: '/images/competition/current.png'
 **17\. Januar 2021 (einschl. 23:59 Uhr)**: Ende der Annahme der vollständigen Lösung
 
 **März 2021**: InformatiCup-Finale
+
+## Anmeldung zum aktuellen Wettbewerb ##
+
+Für Ihre Anmeldung zum InformatiCup 2021 senden Sie bitte eine [E-Mail an Ludger Porada](mailto:ludger.porada@gi.de?subject=Anmeldung InformatiCup 2021) mit dem Namen Ihres Teams und den Namen und E-Mail-Adressen der Teammitglieder sowie dem oder den Namen Ihrer Hochschule(n).
