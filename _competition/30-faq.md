@@ -1,20 +1,26 @@
 ---
 title: 'Häufige Fragen'
 subtitle: 'FAQs'
-date: 2020-10-03 13:00:00
+date: 2020-10-03 13:30:00
 description: Antworten auf die wichtigsten Fragen zum InformatiCup.
 featured_image: '/images/competition/faq.png'
 ---
 
 ## Wer kann am informatiCup teilnehmen? ##
 
-Der informatiCup der GI richtet sich an eingeschriebene Studierende (außer Promotionsstudierende) aller Semester und aller Fachrichtungen an Universitäten und Fachhochschulen in Deutschland, Österreich und der Schweiz.
+Der informatiCup der GI richtet sich an eingeschriebene Studierende (außer Promotionsstudierende) aller Semester und aller Fachrichtungen.
 
 Dieser Wettbewerb soll Studierende herausfordern, sich eigenständig in neue Technologien einzuarbeiten und aus dem erarbeiteten Wissen in Teamarbeit (zwei bis höchstens vier Personen) Problemlösungen zu entwickeln. Einzeleinreichungen werden nicht angenommen.
 
 ## Was müssen wir als Lösung einreichen? ##
 
 Zur Lösung der Aufgabenstellung sollen theoretisches Wissen, die Fähigkeit zur eigenständigen Problemlösung sowie die Beherrschung moderner Softwaretechniken erforderlich sein. Die Aufgaben wechseln jedes Jahr. Bitte schauen Sie sich die aktuelle Ausschreibung an.
+
+In der Regel wird eine lauffähige Software sowie eine dazu zugehörige Ausarbeitung (in Deutsch oder Englisch) erwartet. In der Finalrunde müssen sie zudem ihre Lösung vor einem Live-Publikum präsentieren.
+
+## In welcher Sprache darf ich meine Ausarbeitung schreiben? ##
+
+Die Ausarbeitung darf wahlweise in Deutsch oder Englisch verfasst werden.
 
 ## Wie genau ist der Zeitplan zu verstehen? ##
 
@@ -40,7 +46,7 @@ Es darf jede Programmiersprache verwendet werden, die für die Lösung einer Auf
 
 Es darf jede kostenlos verfügbare Bibliothek verwendet werden. Die Bibliothek muss nicht als Quelltext verfügbar sein.
 
-## Darf ich (öffentlich) verfügbaren Code verwenden, etwa aus öffentlichen GitHub-Repositorys oder Implementierungen von Forschungsarbeiten?
+## Darf ich (öffentlich) verfügbaren Code verwenden, etwa aus öffentlichen GitHub-Repositorys oder Implementierungen von Forschungsarbeiten? ##
 
 Sie dürfen Ihre Lösung auf jeder kostenlos verfügbaren Software aufbauen oder damit ermöglichen. Nennen Sie aber korrekt und vollständig die Autoren dieser Software und beachten Sie mögliche Lizenzbedingungen. In Ihrer Ausarbeitung sollte dann noch deutlich werden, was *Ihre* Meriten einer funktionierenden Lösung sind und an welchen Stellen Sie schon vorher vorhandene Funktionalität verwenden.
 
