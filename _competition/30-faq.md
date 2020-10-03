@@ -8,7 +8,7 @@ featured_image: '/images/competition/faq.png'
 
 ## Wer kann am informatiCup teilnehmen? ##
 
-Der informatiCup der GI richtet sich an eingeschriebene Studierende (außer Promotionsstudierende) aller Semester und aller Fachrichtungen an Universitäten und Fachhochschulen in Deutschland, Österreich und der Schweiz.
+Der informatiCup der GI richtet sich an eingeschriebene Studierende (außer Promotionsstudierende) aller Semester und aller Fachrichtungen.
 
 Dieser Wettbewerb soll Studierende herausfordern, sich eigenständig in neue Technologien einzuarbeiten und aus dem erarbeiteten Wissen in Teamarbeit (zwei bis höchstens vier Personen) Problemlösungen zu entwickeln. Einzeleinreichungen werden nicht angenommen.
 
