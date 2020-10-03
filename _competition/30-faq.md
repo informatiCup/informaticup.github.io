@@ -1,7 +1,7 @@
 ---
 title: 'Häufige Fragen'
 subtitle: 'FAQs'
-date: 2020-01-01 00:00:00
+date: 2020-10-03 13:00:00
 description: Antworten auf die wichtigsten Fragen zum InformatiCup.
 featured_image: '/images/competition/faq.png'
 ---
@@ -39,6 +39,10 @@ Es darf jede Programmiersprache verwendet werden, die für die Lösung einer Auf
 ## Welche Bibliotheken dürfen wir verwenden? ##
 
 Es darf jede kostenlos verfügbare Bibliothek verwendet werden. Die Bibliothek muss nicht als Quelltext verfügbar sein.
+
+## Darf ich (öffentlich) verfügbaren Code verwenden, etwa aus öffentlichen GitHub-Repositorys oder Implementierungen von Forschungsarbeiten?
+
+Sie dürfen Ihre Lösung auf jeder kostenlos verfügbaren Software aufbauen oder damit ermöglichen. Nennen Sie aber korrekt und vollständig die Autoren dieser Software und beachten Sie mögliche Lizenzbedingungen. In Ihrer Ausarbeitung sollte dann noch deutlich werden, was *Ihre* Meriten einer funktionierenden Lösung sind und an welchen Stellen Sie schon vorher vorhandene Funktionalität verwenden.
 
 ## Wie und nach welchen Kriterien werden die Lösungen bewertet? ##
 
