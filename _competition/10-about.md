@@ -1,7 +1,7 @@
 ---
 title: 'Der Wettbewerb'
 subtitle: 'Worum geht es?'
-date: 2020-01-01 00:00:00
+date: 2020-10-30 13:30:00
 description: Der InformatiCup wird von der Gesellschaft für Informatik (GI) veranstaltet und fordert Studierende heraus, sich eigenständig in neue Technologien einzuarbeiten und aus dem erarbeiteten Wissen in Teamarbeit Problemlösungen zu entwickeln.<p>Die Aufgabenstellung erfordert theoretisches Wissen, die Befähigung zu wissenschaftlichen Problemlösungen sowie moderne Präsentationstechniken.</p><p>Der Wettbewerb findet seit 2006 jährlich statt und wird von renommierten Unternehmen unterstützt. Zu gewinnen gibt es attraktive Geldpreise.</p>
 featured_image: '/images/informaticup-icon.jpg'
 ---
@@ -26,11 +26,11 @@ und weitere Sonderpreise.
 
 ## Teilnahmebedingungen ##
 
-Der informatiCup der GI richtet sich an eingeschriebene Studierende (außer Promotionsstudierende) aller Semester und aller Fachrichtungen an Universitäten und Fachhochschulen in Deutschland, Österreich und der Schweiz.
+Der informatiCup der GI richtet sich an eingeschriebene Studierende (außer Promotionsstudierende) aller Semester und aller Fachrichtungen.
 
 Dieser Wettbewerb soll Studierende herausfordern, sich eigenständig in neue Technologien einzuarbeiten und aus dem erarbeiteten Wissen in Teamarbeit (zwei bis höchstens vier Personen) Problemlösungen zu entwickeln. Einzeleinreichungen werden nicht angenommen. Die Teams dürfen sowohl hochschulübergreifend wie auch interdisziplinär zusammengesetzt sein - gerne auch aus beiden Geschlechtern.
 
-Zur Lösung der Aufgabenstellung sind theoretisches Wissen, die Fähigkeit zur eigenständigen Problemlösung sowie die Beherrschung moderner Softwaretechniken erforderlich.
+Zur Lösung der Aufgabenstellung sind theoretisches Wissen, die Fähigkeit zur eigenständigen Problemlösung sowie die Beherrschung moderner Softwaretechniken erforderlich. In der Regel wird eine lauffähige Software sowie eine dazu zugehörige Ausarbeitung (in Deutsch oder Englisch) erwartet. In der Finalrunde müssen sie zudem ihre Lösung vor einem Live-Publikum präsentieren.
 
 ## Hinweise an Hochschulen ##
 

@@ -24,3 +24,17 @@ Jedes Jahr erstellen Teams mit viel Know-how und Engagement Lösungen für die a
 ## InformatiCup 2019 ##
 
 Team **SuperPerturbator** mit **Lukas Pirch** und **Jonas Möller** (TU Braunschweig) auf [GitHub](https://github.com/LPirch/informaticup2019)
+
+## InformatiCup 2017 ##
+
+Team **University of Augsburg**: [Github-Classifier auf GitHub](https://github.com/Ichaelus/Github-Classifier)
+
+Team **Universität Hamburg**: [ClassifyHub auf GitHub](https://github.com/Top-Ranger/ClassifyHub).
+
+## InformatiCup 2016 ##
+
+Team **Universität Hamburg**: [bakery auf GitHub](https://github.com/Top-Ranger/SPtP).
+
+## InformatiCup 2015 ##
+
+Team **Universität Hamburg**: [SPtP auf GitHub](https://github.com/Top-Ranger/SPtP).
