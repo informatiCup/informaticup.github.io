@@ -3,7 +3,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: /images/informaticup-logo.jpg
+  logo_image: /images/informaticup-logo.png
   logo_width: 200
 
 menu_settings:
