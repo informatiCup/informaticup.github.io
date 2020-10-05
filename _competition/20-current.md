@@ -2,7 +2,7 @@
 title: 'InformatiCup 2021'
 subtitle: 'Der aktuelle Wettbewerb'
 date: 2020-01-01 00:00:00
-description: Die neue Wettbewerbsrunde wird am 30. September 2020 im Rahmen der Jahrestagung der Gesellschaft für Informatik im Weizenbaum Institut in Berlin gestartet.
+description: Der InformatiCup 2021 wurde am 30. September 2020 im Rahmen der Jahrestagung der Gesellschaft für Informatik im Weizenbaum Institut in Berlin gestartet.
 featured_image: '/images/competition/spe_ed.png'
 ---
 
