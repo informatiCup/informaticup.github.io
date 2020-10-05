@@ -8,7 +8,7 @@ featured_image: '/images/competition/spe_ed.png'
 
 ## Zeitplan des aktuellen Wettbewerbs ##
 
-**30\. September 2020**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](/challenges/spe-ed)
+**30\. September 2020**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](/challenges/spe-ed) und dem Aufruf zur Teilnahme in [DIN A4](/cfp/cfp-ic-2021-a4.pdf) und [DIN A3](/cfp/cfp-ic-2021-a3.pdf)
 
 **02\. November 2020**: Beginn der Annahme von Lösungsentwürfen (optional). Sie erhalten ein Feedback.
 
