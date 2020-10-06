@@ -29,9 +29,3 @@ Nicht nur dass es Freude macht, mit Gleichgesinnten, hochschulübegreifend und v
 1. Preis: 4.000 EUR, gestiftet von [Amazon](https://www.amazon.jobs/)
 2. Preis: 2.000 EUR, gestiftet von der [PPI AG](https://www.ppi.de/)
 3. Preis: 1.000 EUR, gestiftet von der [Netlight Consulting GmbH](https://www.netlight.com/)
-
-<div class="gallery" data-columns="1">
-  <img src="/images/sponsors/amazon.jpg">
-  <img src="/images/sponsors/ppi.png">
-  <img src="/images/sponsors/netlight.png">
-</div>
