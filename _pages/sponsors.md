@@ -21,6 +21,12 @@ featured_image: /images/informaticup.jpg
 </a>
 </p>
 
+<p>
+<a href="https://www.netlight.com/">
+<img border="0" alt="Netlight Consulting GmbH" src="/images/sponsors/netlight.png">
+</a>
+</p>
+
 ## Technischer Support
 
 <p>
