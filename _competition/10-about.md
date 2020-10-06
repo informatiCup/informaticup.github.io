@@ -18,9 +18,9 @@ Der Wettbewerb findet seit 2006 jährlich statt und wird von renommierten Untern
 
 Außer dass es Freude macht, mit Gleichgesinnten, hochschulübegreifend und vielleicht interdisziplinär an einer Informatik-Herausforderung zu arbeiten, gibt es auch noch attraktive Geldpreise zu gewinnen:
 
-1. Preis: 4.000 EUR
-2. Preis: 2.000 EUR
-3. Preis: 1.000 EUR
+1. Preis: 4.000 EUR, gestiftet von [Amazon](https://www.amazon.jobs/)
+2. Preis: 2.000 EUR, gestiftet von der [PPI AG](https://www.ppi.de/)
+3. Preis: 1.000 EUR, gestiftet von der [Netlight Consulting GmbH](https://www.netlight.com/)
 
 und weitere Sonderpreise.
 
