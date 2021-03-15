@@ -15,7 +15,7 @@ Die Jury des Wettbewerbs besteht aus ehrenamtlichen GI-Mitgliedern aus Wissensch
 - Asmus Hetzel, [Amazon](https://amazon.jobs/)
 - Jens Lechtenbörger, [Universität Münster](https://www.wi.uni-muenster.de/de/institut/dbis/personen/jens-lechtenboerger)
 - Robin Meiseberg, [Netlight Consulting GmbH](https://www.netlight.com/)
-- [Philipp Naumann](https://github.com/bitflipp)
+- [Philipp Naumann](https://github.com/bitflipp), [HANSALOG BPS GmbH](https://hansalog-bps.de/)
 - [Johannes Nicolai](https://github.com/jonico), [GitHub](https://github.com/)
 - Sebastian Otte, [Universität Tübingen](http://cm.inf.uni-tuebingen.de/staff/otte)
 - [Alexander Paar](https://github.com/AlexPaar) (Sprecher), [Duale Hochschule Schleswig-Holstein](https://www.dhsh.de/)
