@@ -21,6 +21,7 @@ Die Jury des Wettbewerbs besteht aus ehrenamtlichen GI-Mitgliedern aus Wissensch
 - [Alexander Paar](https://github.com/AlexPaar) (Sprecher), [Duale Hochschule Schleswig-Holstein](https://www.dhsh.de/)
 - Curd Reinert, [PPI AG](https://www.ppi.de/)
 - David Rochholz, [Netlight Consulting GmbH](https://www.netlight.com/)
+- Henrik Sendt, [OBI GmbH & Co. Deutschland KG](http://www.obi.de/)
 - [Marcus Soll](https://github.com/Top-Ranger), [Stadt Wedel](https://www.wedel.de/)
 - Helge Spieker, [Simula Research Laboratory](https://www.simula.no/)
 - Benedict Steinhoff, [Netlight Consulting GmbH](https://www.netlight.com/)
