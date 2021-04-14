@@ -21,6 +21,8 @@ Außer dass es Freude macht, mit Gleichgesinnten, hochschulübegreifend und viel
 1. Preis: 4.000 EUR, gestiftet von [Amazon](https://www.amazon.jobs/)
 2. Preis: 2.000 EUR, gestiftet von der [PPI AG](https://www.ppi.de/)
 3. Preis: 1.000 EUR, gestiftet von der [Netlight Consulting GmbH](https://www.netlight.com/)
+4. Preis: 500 EUR, gestiftet von der [genua GmbH](https://www.genua.de/)
+5. Preis: 250 EUR, gestiftet von der [genua GmbH](https://www.genua.de/)
 
 und weitere Sonderpreise.
 
