@@ -27,6 +27,12 @@ featured_image: /images/informaticup.jpg
 </a>
 </p>
 
+<p>
+<a href="https://www.genua.de/">
+<img border="0" alt="genua GmbH" src="/images/sponsors/genua.jpg">
+</a>
+</p>
+
 ## Technischer Support
 
 <p>
