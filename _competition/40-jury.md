@@ -22,7 +22,7 @@ Die Jury des Wettbewerbs besteht aus ehrenamtlichen GI-Mitgliedern aus Wissensch
 - Curd Reinert, [PPI AG](https://www.ppi.de/)
 - David Rochholz, [Netlight Consulting GmbH](https://www.netlight.com/)
 - Henrik Sendt, [OBI GmbH & Co. Deutschland KG](http://www.obi.de/)
-- [Marcus Soll](https://github.com/Top-Ranger), [Stadt Wedel](https://www.wedel.de/)
+- [Marcus Soll](https://github.com/Top-Ranger)
 - Helge Spieker, [Simula Research Laboratory](https://www.simula.no/)
 - Benedict Steinhoff, [Netlight Consulting GmbH](https://www.netlight.com/)
 - Karl Teille, [Volkswagen AG](https://www.volkswagen.de/)
