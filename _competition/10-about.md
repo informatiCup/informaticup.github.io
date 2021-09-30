@@ -30,7 +30,7 @@ Der informatiCup der GI richtet sich an eingeschriebene Studierende (außer Prom
 
 Dieser Wettbewerb soll Studierende herausfordern, sich eigenständig in neue Technologien einzuarbeiten und aus dem erarbeiteten Wissen in Teamarbeit (zwei bis höchstens vier Personen) Problemlösungen zu entwickeln. Einzeleinreichungen werden nicht angenommen. Die Teams dürfen sowohl hochschulübergreifend wie auch interdisziplinär zusammengesetzt sein - gerne auch aus beiden Geschlechtern.
 
-Zur Lösung der Aufgabenstellung sind theoretisches Wissen, die Fähigkeit zur eigenständigen Problemlösung sowie die Beherrschung moderner Softwaretechniken erforderlich. In der Regel wird eine lauffähige Software sowie eine dazu zugehörige Ausarbeitung (in Deutsch oder Englisch) erwartet. In der Finalrunde müssen sie zudem ihre Lösung vor einem Live-Publikum präsentieren.
+Zur Lösung der Aufgabenstellung sind theoretisches Wissen, die Fähigkeit zur eigenständigen Problemlösung sowie die Beherrschung moderner Softwaretechniken erforderlich. In der Regel wird eine lauffähige Software sowie eine dazu zugehörige Ausarbeitung (in Deutsch oder Englisch) erwartet. In der Finalrunde müsst Ihr zudem Eure Lösung vor einem Live-Publikum präsentieren.
 
 Die Anmeldung zum Wettbewerb findet über das neue Online-Portal [Teammates](https://teams.informaticup.de/) statt.
 
