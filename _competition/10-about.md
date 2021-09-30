@@ -34,6 +34,8 @@ Zur Lösung der Aufgabenstellung sind theoretisches Wissen, die Fähigkeit zur e
 
 Die Anmeldung zum Wettbewerb findet über das neue Online-Portal [Teammates](https://teams.informaticup.de/) statt.
 
+Für die Teilnahme am Wettbewerb gibt es dann das neue [informatiCup CI System](https://github.com/informatiCup/informatiCup2022/blob/main/ICUPCI.md).
+
 ## Hinweise an Hochschulen
 
 Die Wettbewerbsaufgabe des informatiCup ist sehr anspruchsvoll und bedarf – selbst für Teams mit bis zu vier Personen – einen nicht unerheblichen Aufwand an Zeit. Deshalb soll die Teilnahme am Wettbewerb für die Studierenden nicht etwas völlig Zusätzliches sein, sondern die erbrachten Leistungen könnten auf das Studium angerechnet werden, zum Beispiel im Rahmen von Programmierpraktika oder sonstiger Übungen.
