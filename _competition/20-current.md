@@ -16,9 +16,11 @@ featured_image: "/images/competition/abfahrt.jpg"
 
 **März 2022**: InformatiCup-Finale
 
-## Anmeldung zum aktuellen Wettbewerb
+## Teilnahme am aktuellen Wettbewerb
 
 Die Anmeldung zum Wettbewerb findet über das neue Online-Portal [Teammates](https://teams.informaticup.de/) statt.
+
+Für die Teilnahme am Wettbewerb gibt es dann das neue [informatiCup CI System](https://github.com/informatiCup/informatiCup2022/blob/main/ICUPCI.md).
 
 ## Preisgelder
 
