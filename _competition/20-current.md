@@ -8,7 +8,7 @@ featured_image: "/images/competition/abfahrt.jpg"
 
 ## Zeitplan des aktuellen Wettbewerbs
 
-**30\. September 2021**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](/challenges/abfahrt)
+**30\. September 2021**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](/challenges/abfahrt) und dem [Aufruf zur Teilnahme](https://github.com/informatiCup/informatiCup2022/blob/main/cfp-InformatiCup_2022.pdf)
 
 **30\. November 2021**: Ende der Anmeldefrist für den InformatiCup 2022
 
