@@ -1,2 +1,2 @@
 # informaticup.github.io
-InformatiCup web site
+[informatiCup web site](https://informaticup.github.io/)
