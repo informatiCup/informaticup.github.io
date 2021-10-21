@@ -37,7 +37,13 @@ featured_image: /images/informaticup.jpg
 
 <p>
 <a href="https://github.com/">
-<img border="0" alt="GitHub " src="/images/sponsors/github.png">
+<img border="0" alt="GitHub" src="/images/sponsors/github.png">
+</a>
+</p>
+
+<p>
+<a href="https://www.postman.com/">
+<img border="0" alt="Postman Inc." src="/images/sponsors/postman.png">
 </a>
 </p>
 
