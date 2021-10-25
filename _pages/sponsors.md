@@ -33,6 +33,12 @@ featured_image: /images/informaticup.jpg
 </a>
 </p>
 
+<p>
+<a href="https://www.ivu.de/">
+<img border="0" alt="IVU Traffic Technologies AG" src="/images/sponsors/ivu2.png">
+</a>
+</p>
+
 ## Technischer Support
 
 <p>
