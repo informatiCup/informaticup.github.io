@@ -46,7 +46,7 @@ Team **Universität Hamburg**: [ClassifyHub auf GitHub](https://github.com/Top-R
 
 ## InformatiCup 2016 ##
 
-Team **Universität Hamburg**: [bakery auf GitHub](https://github.com/Top-Ranger/SPtP).
+Team **Universität Hamburg**: [bakery auf GitHub](https://github.com/Top-Ranger/bakery).
 
 ## InformatiCup 2015 ##
 
