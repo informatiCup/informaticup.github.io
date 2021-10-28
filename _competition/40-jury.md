@@ -27,5 +27,5 @@ Die Jury des Wettbewerbs besteht aus ehrenamtlichen GI-Mitgliedern aus Wissensch
 - Benedict Steinhoff, [Netlight Consulting GmbH](https://www.netlight.com/)
 - Karl Teille, [Volkswagen AG](https://www.volkswagen.de/)
 - Eric Urban, [Netlight Consulting GmbH](https://www.netlight.com/)
-- Alexander von Gernler, [genua GmbH](https://www.genua.de/)
+- Alexandra Meyer, [genua GmbH](https://www.genua.de/)
 - Sebastian Wolters, [PLEdoc GmbH](http://www.pledoc.de/)
