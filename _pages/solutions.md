@@ -12,6 +12,7 @@ Jedes Jahr erstellen Teams mit viel Know-how und Engagement Lösungen für die a
 | Hochschule                   | Repository                                                                   | Präsentation                                                                                                                                                                       | GitHub Handles                            |
 |------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | Hasso-Plattner-Institut, Universität Potsdam | [Team Brot](https://github.com/TeamBrot)                     | [Webseite](https://teambrot.github.io/) | @jacob271 @sohn123 @rgwohlbold @lill28      |
+RWTH Aachen | [Team Jumpstart](https://github.com/TeamJumpstart/InformatiCup2021) | [Website](https://teamjumpstart.github.io/InformatiCup2021/) | @diddiz @GregorKobsik @ManuelPozor |
 
 ## InformatiCup 2020 ##
 
