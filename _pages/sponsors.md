@@ -59,6 +59,12 @@ featured_image: /images/informaticup.jpg
 </a>
 </p>
 
+<p>
+<a href="https://planetscale.com/">
+<img border="0" alt="PlanetScale Inc." src="/images/sponsors/planetscale.png">
+</a>
+</p>
+
 ## Medienpartner
 
 <p>
