@@ -39,6 +39,12 @@ featured_image: /images/informaticup.jpg
 </a>
 </p>
 
+<p>
+<a href="https://www.deutschebahn.com/">
+<img border="0" alt="Deutsche Bahn AG" src="/images/sponsors/db.png">
+</a>
+</p>
+
 ## Technischer Support
 
 <p>
