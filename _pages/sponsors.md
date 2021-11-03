@@ -54,14 +54,14 @@ featured_image: /images/informaticup.jpg
 </p>
 
 <p>
-<a href="https://www.postman.com/">
-<img border="0" alt="Postman Inc." src="/images/sponsors/postman.png">
+<a href="https://planetscale.com/">
+<img border="0" alt="PlanetScale Inc." src="/images/sponsors/planetscale.png">
 </a>
 </p>
 
 <p>
-<a href="https://planetscale.com/">
-<img border="0" alt="PlanetScale Inc." src="/images/sponsors/planetscale.png">
+<a href="https://www.postman.com/">
+<img border="0" alt="Postman Inc." src="/images/sponsors/postman.png">
 </a>
 </p>
 
