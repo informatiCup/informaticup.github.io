@@ -39,11 +39,23 @@ featured_image: /images/informaticup.jpg
 </a>
 </p>
 
+<p>
+<a href="https://www.deutschebahn.com/">
+<img border="0" alt="Deutsche Bahn AG" src="/images/sponsors/db.png">
+</a>
+</p>
+
 ## Technischer Support
 
 <p>
 <a href="https://github.com/">
 <img border="0" alt="GitHub" src="/images/sponsors/github.png">
+</a>
+</p>
+
+<p>
+<a href="https://planetscale.com/">
+<img border="0" alt="PlanetScale Inc." src="/images/sponsors/planetscale.png">
 </a>
 </p>
 
