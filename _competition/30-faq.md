@@ -48,7 +48,7 @@ Es darf jede Bibliothek verwendet werden, die **für jedermann** kostenlos verf�
 
 ## Darf ich (öffentlich) verfügbaren Code verwenden, etwa aus öffentlichen GitHub-Repositorys oder Implementierungen von Forschungsarbeiten?
 
-Ihr dürft Eure Lösung auf jeder Software aufbauen oder damit ermöglichen, die **für jedermann** kostenlos verfügbar ist und **keine besonderen Einschränkungen (wie nur X mal ausführen)** hat. Sollte es eine Option geben, weitere Fähigkeiten, Module, etc. zu erwerben, so darf nur die **kostenlose und keine erweiterte Version** verwendet werden. Nennt auch korrekt und vollständig die Autoren dieser Software und beachtet mögliche Lizenzbedingungen. In Eurer Ausarbeitung sollte dann noch deutlich werden, was _Eure_ Meriten einer funktionierenden Lösung sind und an welchen Stellen Ihr schon vorher vorhandene Funktionalität verwenden.
+Ihr dürft Eure Lösung auf jeder Software aufbauen oder damit ermöglichen, die **für jedermann** kostenlos verfügbar ist und **keine besonderen Einschränkungen (wie nur X mal ausführen)** hat. Sollte es eine Option geben, weitere Fähigkeiten, Module, etc. zu erwerben, so darf nur die **kostenlose und keine erweiterte Version** verwendet werden. Nennt aber korrekt und vollständig die Autoren dieser Software und beachtet mögliche Lizenzbedingungen. In Eurer Ausarbeitung sollte dann noch deutlich werden, was _Eure_ Meriten einer funktionierenden Lösung sind und an welchen Stellen Ihr schon vorher vorhandene Funktionalität verwenden.
 
 ## Wie und nach welchen Kriterien werden die Lösungen bewertet?
 
