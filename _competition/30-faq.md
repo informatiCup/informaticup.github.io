@@ -48,8 +48,16 @@ Es darf jede Bibliothek verwendet werden, die **für jedermann** kostenlos verf�
 
 ## Darf ich (öffentlich) verfügbaren Code verwenden, etwa aus öffentlichen GitHub-Repositorys oder Implementierungen von Forschungsarbeiten?
 
-Ihr dürft Eure Lösung auf jeder Software aufbauen oder damit ermöglichen, die **für jedermann** kostenlos verfügbar ist und **keine besonderen Einschränkungen (wie nur X mal ausführen)** hat. Sollte es eine Option geben, weitere Fähigkeiten, Module, etc. zu erwerben, so darf nur die **kostenlose und keine erweiterte Version** verwendet werden. Nennt auch korrekt und vollständig die Autoren dieser Software und beachtet mögliche Lizenzbedingungen. In Eurer Ausarbeitung sollte dann noch deutlich werden, was _Eure_ Meriten einer funktionierenden Lösung sind und an welchen Stellen Ihr schon vorher vorhandene Funktionalität verwenden.
+Ihr dürft Eure Lösung auf jeder Software aufbauen oder damit ermöglichen, die **für jedermann** kostenlos verfügbar ist und **keine besonderen Einschränkungen (wie nur X mal ausführen)** hat. Sollte es eine Option geben, weitere Fähigkeiten, Module, etc. zu erwerben, so darf nur die **kostenlose und keine erweiterte Version** verwendet werden. Nennt aber korrekt und vollständig die Autoren dieser Software und beachtet mögliche Lizenzbedingungen. In Eurer Ausarbeitung sollte dann noch deutlich werden, was _Eure_ Meriten einer funktionierenden Lösung sind und an welchen Stellen Ihr schon vorher vorhandene Funktionalität verwenden.
 
 ## Wie und nach welchen Kriterien werden die Lösungen bewertet?
 
 Welche Anforderungen im aktuellen Wettbewerb gestellt werden, findet Ihr direkt im Aufgabentext.
+
+## Was ist wichtiger? Geschwindigkeit oder Berechnungsergebnis?
+
+Es ist Eure Aufgabe, beide Aspekte zusammen zu bringen. Wir geben Euch kein hartes Limit an die Berechnungszeit, jedoch sollte Eure Berechnungszeit angemessen sein. Schaut Euch z.B. *use cases* an. Entsprechende Abwägungen und Rahmenbedingungen sollten dabei in Eurer Ausarbeitung auftauchen. Am besten ist natürlich eine schnelle **und** gute Lösung.
+
+Bei der Hardware, auf der Eure Software ausgeführt wird, könnt Ihr davon ausgehen, dass es sich um moderne Mehrkernprozessor-Computer mit einigen GB RAM und keiner speziellen Grafikkarte handelt. Es ist möglich, dass die Systeme virtualisiert sind.
+
+Bitte beachtet, dass dies nicht das einzige Wertungskriterium ist. Die (theoretische) Ausarbeitung, die Benutzerführung und die Softwarequalität sind genau so wichtig.
