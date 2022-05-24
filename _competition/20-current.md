@@ -1,8 +1,8 @@
 ---
 title: "InformatiCup 2022"
 subtitle: "Der aktuelle Wettbewerb"
-date: 2021-09-30 00:00:00
-description: Der InformatiCup 2022 wurde am 30. September 2021 im Rahmen der Jahrestagung der Gesellschaft für Informatik gestartet.
+date: 2022-05-02 14:00:00
+description: Das Endrunde des InformatiCup 2022 fand am 02. Mai 2022 in Hamburg statt.
 featured_image: "/images/competition/abfahrt.jpg"
 ---
 
@@ -14,7 +14,7 @@ featured_image: "/images/competition/abfahrt.jpg"
 
 **16\. Januar 2022 (einschl. 23:59 Uhr)**: Ende der Annahme der vollständigen Lösung
 
-**März 2022**: InformatiCup-Finale
+**02\. Mai 2022**: InformatiCup-Finale bei der [Netlight Consulting GmbH](https://www.netlight.com/) in Hamburg
 
 ## Teilnahme am aktuellen Wettbewerb
 
