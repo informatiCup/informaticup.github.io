@@ -2,7 +2,7 @@
 title: "InformatiCup 2022"
 subtitle: "Der aktuelle Wettbewerb"
 date: 2022-05-02 14:00:00
-description: Das Endrunde des InformatiCup 2022 fand am 02. Mai 2022 in Hamburg statt.
+description: Die Endrunde des InformatiCup 2022 fand am 02. Mai 2022 in Hamburg statt.
 featured_image: "/images/competition/abfahrt.jpg"
 ---
 
