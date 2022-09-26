@@ -12,9 +12,9 @@ featured_image: "/images/competition/skill-2022.jpg"
 
 **30\. November 2022**: Ende der Anmeldefrist für den InformatiCup 2023
 
-**15\. Januar 2022 (einschl. 23:59 Uhr)**: Ende der Annahme der vollständigen Lösung
+**15\. Januar 2023 (einschl. 23:59 Uhr)**: Ende der Annahme der vollständigen Lösung
 
-**Mai 2022**: InformatiCup-Finale
+**Mai 2023**: InformatiCup-Finale
 
 ## Teilnahme am aktuellen Wettbewerb
 
