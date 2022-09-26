@@ -2,11 +2,11 @@
 title: 'Die Jury'
 subtitle: ''
 date: 2020-09-29 00:00:00
-description: Die Jury des Wettbewerbs 2021.
+description: Die Jury des Wettbewerbs.
 featured_image: '/images/competition/jury.png'
 ---
 
-## Die Jury des Wettbewerbs 2021 ##
+## Die Jury des Wettbewerbs ##
 
 Die Jury des Wettbewerbs besteht aus ehrenamtlichen GI-Mitgliedern aus Wissenschaft und Wirtschaft, darunter ehemalige Teilnehmende am InformatiCup.
 
