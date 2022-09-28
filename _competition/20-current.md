@@ -1,7 +1,7 @@
 ---
 title: "InformatiCup 2023"
 subtitle: "Der aktuelle Wettbewerb"
-date: 2022-09-26 14:00:00
+date: 2022-09-27 14:00:00
 description: Der InformatiCup 2023 wird am 29. September 2022 auf der Studierendenkonferenz Informatik (SKILL) eröffnet.
 featured_image: "/images/competition/skill-2022.jpg"
 ---
