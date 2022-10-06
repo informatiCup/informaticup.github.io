@@ -36,7 +36,7 @@ Die Anmeldung zum Wettbewerb findet über das neue Online-Portal [Teammates](htt
 
 ## Wie können wir eine Lösung einreichen?
 
-Die Abgabe einer Lösung erfolgt durch einen Push in ein Git Repository, das jedem Team mit der Anmeldung zum Wettbewerb von dem neuen [informatiCup CI System ("ICUPCI")](https://github.com/informatiCup/informatiCup2022/blob/main/ICUPCI.md) bereitgestellt wird.
+Die Abgabe einer Lösung findet über das neue Online-Portal [Teammates](https://teams.informaticup.de/) statt.
 
 ## Welche Programmiersprachen dürfen wir verwenden?
 

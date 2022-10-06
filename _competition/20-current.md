@@ -1,14 +1,14 @@
 ---
 title: "InformatiCup 2023"
 subtitle: "Der aktuelle Wettbewerb"
-date: 2022-09-27 14:00:00
-description: Der InformatiCup 2023 wird am 29. September 2022 auf der Studierendenkonferenz Informatik (SKILL) eröffnet.
-featured_image: "/images/competition/skill-2022.jpg"
+date: 2022-01-10 17:00:00
+description: Die aktuelle Aufgabe wurde veröffentlicht.
+featured_image: "/images/challenges/profit.png"
 ---
 
 ## Zeitplan des aktuellen Wettbewerbs
 
-**29\. September 2022**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen Aufgabe
+**01\. Oktober 2022**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen Aufgabe
 
 **30\. November 2022**: Ende der Anmeldefrist für den InformatiCup 2023
 
@@ -19,8 +19,6 @@ featured_image: "/images/competition/skill-2022.jpg"
 ## Teilnahme am aktuellen Wettbewerb
 
 Die Anmeldung zum Wettbewerb findet über das Online-Portal [Teammates](https://teams.informaticup.de/) statt.
-
-Für die Teilnahme am Wettbewerb gibt es das [informatiCup CI System](https://github.com/informatiCup/informatiCup2023/blob/main/ICUPCI.md).
 
 ## Preisgelder
 
