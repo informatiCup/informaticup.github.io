@@ -8,7 +8,7 @@ featured_image: "/images/challenges/profit.png"
 
 ## Zeitplan des aktuellen Wettbewerbs
 
-**01\. Oktober 2022**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](https://github.com/informatiCup/informatiCup2023/blob/main/informatiCup%202023%20-%20Profit!.pdf)
+**01\. Oktober 2022**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](https://github.com/informatiCup/informatiCup2023/blob/main/informatiCup%202023%20-%20Profit!.pdf) und dem [Aufruf zur Teilnahme](https://github.com/informatiCup/informatiCup2023/blob/main/cfp-InformatiCup_2023.pdf)
 
 **30\. November 2022**: Ende der Anmeldefrist für den InformatiCup 2023
 
