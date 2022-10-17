@@ -72,3 +72,9 @@ featured_image: /images/informaticup.jpg
 <img border="0" alt="iX " src="/images/sponsors/ix.png">
 </a>
 </p>
+
+## Sponsoring
+
+Sie möchten ebenfalls die Teilnehmer am InformatiCup fördern und den Studierendenwettbewerb der Gesellschaft für Informatik unterstützen?
+
+Aktuelle Informationen über das InformatiCup-Sponsoring sind [hier](https://gi.de/fileadmin/GI/Hauptseite/Aktuelles/Wettbewerbe/InformatiCup/sponsoring-informatiCup2023.pdf) zusammengefasst.
