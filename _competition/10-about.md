@@ -40,6 +40,12 @@ Die Wettbewerbsaufgabe des informatiCup ist sehr anspruchsvoll und bedarf – se
 
 Die GI empfiehlt dafür die Vergabe von mindestens vier ECTS-Punkten pro Mitglied des Teams. Einzelne Hochschule vergeben auch mehr Punkte. Wenden Sie sich an Ihre/n [GI-Botschafterinnen und Botschafter](https://gi.de/netzwerk/hochschulen/botschafterinnen). Fragen dazu bitte per E-Mail an [Ludger Porada](mailto:ludger.porada@gi.de?subject=InformatiCup).
 
+## Sponsoring
+
+Sie möchten die Teilnehmer am InformatiCup fördern und den Studierendenwettbewerb der Gesellschaft für Informatik unterstützen?
+
+Aktuelle Informationen über das InformatiCup-Sponsoring sind [hier](https://gi.de/fileadmin/GI/Hauptseite/Aktuelles/Wettbewerbe/InformatiCup/sponsoring-informatiCup2023.pdf) zusammengefasst.
+
 <div class="gallery" data-columns="1">
 	<img src="/images/competition/informaticup-logo-with-text.png">
 </div>
