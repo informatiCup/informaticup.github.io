@@ -6,7 +6,7 @@ description: '"Einstieg Informatik" empfiehlt den InformatiCup'
 featured_image: "/images/blog/einstieg-informatik.png"
 ---
 
-**Einstieg Informatik empfiehlt den InformatiCup**
+**"Einstieg Informatik" empfiehlt den InformatiCup**
 
 Das Portal "Einstieg Informatik" - ein Projekt der Geschäftsstelle der Bundesweiten Informatikwettbewerbe mit Unterstützung des [Fakultätentags Informatik](https://www.ft-informatik.de/) - empfiehlt mit der folgenden Meldung eine Teilnahme am InformatiCup 2023.
 
