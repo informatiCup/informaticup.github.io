@@ -28,12 +28,6 @@ featured_image: /images/informaticup.jpg
 </p>
 
 <p>
-<a href="https://www.genua.de/">
-<img border="0" alt="genua GmbH" src="/images/sponsors/genua.jpg">
-</a>
-</p>
-
-<p>
 <a href="https://www.ivu.de/">
 <img border="0" alt="IVU Traffic Technologies AG" src="/images/sponsors/ivu2.png">
 </a>
@@ -42,6 +36,14 @@ featured_image: /images/informaticup.jpg
 <p>
 <a href="https://www.deutschebahn.com/">
 <img border="0" alt="Deutsche Bahn AG" src="/images/sponsors/db.png">
+</a>
+</p>
+
+## Veranstaltungspartner
+
+<p>
+<a href="http://www.ppi.de/">
+<img border="0" alt="PPI AG" src="/images/sponsors/ppi.png">
 </a>
 </p>
 
@@ -54,14 +56,14 @@ featured_image: /images/informaticup.jpg
 </p>
 
 <p>
-<a href="https://planetscale.com/">
-<img border="0" alt="PlanetScale Inc." src="/images/sponsors/planetscale.png">
+<a href="https://www.postman.com/">
+<img border="0" alt="Postman Inc." src="/images/sponsors/postman.png">
 </a>
 </p>
 
 <p>
-<a href="https://www.postman.com/">
-<img border="0" alt="Postman Inc." src="/images/sponsors/postman.png">
+<a href="https://planetscale.com/">
+<img border="0" alt="PlanetScale Inc." src="/images/sponsors/planetscale.png">
 </a>
 </p>
 
