@@ -21,6 +21,12 @@ featured_image: /images/informaticup.jpg
 </a>
 </p>
 
+<p>
+<a href="https://pledoc.de/">
+<img border="0" alt="PPI AG" src="/images/sponsors/pledoc400.png">
+</a>
+</p>
+
 ## Medienpartner
 
 <p>
