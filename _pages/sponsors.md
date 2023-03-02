@@ -22,6 +22,12 @@ featured_image: /images/informaticup.jpg
 </p>
 <p><span style="color:white;">.</span></p>
 <p>
+<a href="http://hbt.de/">
+<img border="0" alt="HBT Hamburger Berater Team GmbH" src="/images/sponsors/hbt320.png">
+</a>
+</p>
+<p><span style="color:white;">.</span></p>
+<p>
 <a href="https://pledoc.de/">
 <img border="0" alt="PPI AG" src="/images/sponsors/pledoc400.png">
 </a>
