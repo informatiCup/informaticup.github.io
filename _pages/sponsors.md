@@ -5,14 +5,6 @@ description: Aktuelle Partner und Unterstützer des InformatiCup.
 featured_image: /images/informaticup.jpg
 ---
 
-## Hauptsponsor
-
-<p>
-<a href="https://amazon.jobs/">
-<img border="0" alt="Amazon" src="/images/sponsors/amazon.png">
-</a>
-</p>
-
 ## Wettbewerbspartner
 
 <p>

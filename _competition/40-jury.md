@@ -12,7 +12,6 @@ Die Jury des Wettbewerbs besteht aus ehrenamtlichen GI-Mitgliedern aus Wissensch
 
 - Walter Guttmann, [University of Canterbury](https://www.csse.canterbury.ac.nz/walter.guttmann/)
 - Hartmut Herde, [PPI AG](https://www.ppi.de/)
-- Asmus Hetzel, [Amazon](https://amazon.jobs/)
 - Jens Lechtenbörger, [Universität Münster](https://www.wi.uni-muenster.de/de/institut/dbis/personen/jens-lechtenboerger)
 - Katharina Mulack, [Netlight Consulting GmbH](https://www.netlight.com/)
 - [Philipp Naumann](https://github.com/bitflipp), [Hamburger Hochbahn AG](https://www.hochbahn.de/)
