@@ -5,14 +5,6 @@ description: Aktuelle Partner und Unterstützer des InformatiCup.
 featured_image: /images/informaticup.jpg
 ---
 
-## Hauptsponsor
-
-<p>
-<a href="https://www.check24.de/">
-<img border="0" alt="CHECK24" src="/images/sponsors/check24600.png">
-</a>
-</p>
-
 ## Wettbewerbspartner
 
 <p>
