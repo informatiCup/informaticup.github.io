@@ -21,7 +21,7 @@ featured_image: /images/informaticup.jpg
 <p><span style="color:white;">.</span></p>
 <p>
 <a href="https://pledoc.de/">
-<img border="0" alt="PPI AG" src="/images/sponsors/pledoc400.png">
+<img border="0" alt="PLEdoc GmbH" src="/images/sponsors/pledoc400.png">
 </a>
 </p>
 <p><span style="color:white;">.</span></p>

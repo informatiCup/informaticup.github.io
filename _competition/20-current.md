@@ -2,7 +2,7 @@
 title: "InformatiCup 2023"
 subtitle: "Der aktuelle Wettbewerb"
 date: 2022-01-10 17:00:00
-description: Die aktuelle Aufgabe wurde veröffentlicht.
+description: Profit!
 featured_image: "/images/challenges/profit.png"
 ---
 
@@ -14,7 +14,7 @@ featured_image: "/images/challenges/profit.png"
 
 **15\. Januar 2023 (einschl. 23:59 Uhr)**: Ende der Annahme der vollständigen Lösung
 
-**Mai 2023**: InformatiCup-Finale
+**24\. April 2023**: [InformatiCup-Finale](/finals/final-2023)
 
 ## Teilnahme am aktuellen Wettbewerb
 
