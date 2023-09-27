@@ -8,7 +8,7 @@ featured_image: "/images/challenges/fool-ai-detectors.png"
 
 ## Zeitplan des aktuellen Wettbewerbs
 
-**28\. September 2023**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](https://github.com/informatiCup/informatiCup2024) und dem Aufruf zur Teilnahme
+**28\. September 2023**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](https://github.com/informatiCup/informatiCup2024/blob/97d3fc6971a5f2fbd2ff340a52cf90f8821666fd/informatiCup%202024%20-%20Fool%20AI%20Detectors.pdf) und dem Aufruf zur Teilnahme
 
 **30\. November 2023**: Ende der Anmeldefrist für den InformatiCup 2024
 
