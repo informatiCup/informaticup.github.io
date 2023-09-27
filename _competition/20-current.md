@@ -1,20 +1,20 @@
 ---
-title: "InformatiCup 2023"
+title: "InformatiCup 2024"
 subtitle: "Der aktuelle Wettbewerb"
-date: 2022-01-10 17:00:00
-description: Profit!
-featured_image: "/images/challenges/profit.png"
+date: 2023-09-26 17:00:00
+description: Fool AI Detectors
+featured_image: "/images/challenges/fool-ai-detectors.png"
 ---
 
 ## Zeitplan des aktuellen Wettbewerbs
 
-**01\. Oktober 2022**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](https://github.com/informatiCup/informatiCup2023/blob/main/informatiCup%202023%20-%20Profit!.pdf) und dem [Aufruf zur Teilnahme](https://github.com/informatiCup/informatiCup2023/blob/main/cfp-InformatiCup_2023.pdf)
+**28\. September 2023**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](https://github.com/informatiCup/informatiCup2024) und dem Aufruf zur Teilnahme
 
-**30\. November 2022**: Ende der Anmeldefrist für den InformatiCup 2023
+**30\. November 2023**: Ende der Anmeldefrist für den InformatiCup 2024
 
-**15\. Januar 2023 (einschl. 23:59 Uhr)**: Ende der Annahme der vollständigen Lösung
+**14\. Januar 2024 (einschl. 23:59 Uhr)**: Ende der Annahme der vollständigen Lösung
 
-**24\. April 2023**: [InformatiCup-Finale](/finals/final-2023)
+**April 2024**: InformatiCup-Finale
 
 ## Teilnahme am aktuellen Wettbewerb
 

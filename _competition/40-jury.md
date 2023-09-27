@@ -1,17 +1,18 @@
 ---
-title: 'Die Jury'
-subtitle: ''
+title: "Die Jury"
+subtitle: ""
 date: 2020-09-29 00:00:00
 description: Die Jury des Wettbewerbs.
-featured_image: '/images/competition/jury.png'
+featured_image: "/images/competition/jury.png"
 ---
 
-## Die Jury des Wettbewerbs ##
+## Die Jury des Wettbewerbs
 
 Die Jury des Wettbewerbs besteht aus ehrenamtlichen GI-Mitgliedern aus Wissenschaft und Wirtschaft, darunter ehemalige Teilnehmende am InformatiCup.
 
 - Walter Guttmann, [University of Canterbury](https://www.csse.canterbury.ac.nz/walter.guttmann/)
 - Hartmut Herde, [PPI AG](https://www.ppi.de/)
+- [Gregor Kobsik](https://github.com/GregorKobsik), [RWTH Aachen](https://www.rwth-aachen.de/)
 - Jens Lechtenbörger, [Universität Münster](https://www.wi.uni-muenster.de/de/institut/dbis/personen/jens-lechtenboerger)
 - Katharina Mulack, [Netlight Consulting GmbH](https://www.netlight.com/)
 - [Philipp Naumann](https://github.com/bitflipp), [Hamburger Hochbahn AG](https://www.hochbahn.de/)
