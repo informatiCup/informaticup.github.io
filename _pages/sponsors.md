@@ -14,6 +14,12 @@ featured_image: /images/informaticup.jpg
 </p>
 <p><span style="color:white;">.</span></p>
 <p>
+<a href="http://www.postman.com/">
+<img border="0" alt="	Postman Inc." src="/images/sponsors/postman.png">
+</a>
+</p>
+<p><span style="color:white;">.</span></p>
+<p>
 <a href="http://hbt.de/">
 <img border="0" alt="HBT Hamburger Berater Team GmbH" src="/images/sponsors/hbt320.png">
 </a>
