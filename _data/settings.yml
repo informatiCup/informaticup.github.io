@@ -3,7 +3,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: /images/informaticup-logo.png
+  logo_image: /images/informaticup-logo.svg
   logo_width: 200
 
 menu_settings:
@@ -72,19 +72,19 @@ social_settings:
 color_settings:
   background_color: "#ffffff"
   background_alt_color: "#f4f5f6"
-  text_dark_color: "#2A2F36"
-  text_medium_color: "#6C7A89"
+  text_dark_color: "#324C95"
+  text_medium_color: "#7BB0B9"
   text_light_color: "#ABB7B7"
-  accent_color: "#3498db"
+  accent_color: "#B6BE70"
   border_color: "#dddddd"
   hero_background_color: "#132930"
   hero_text_color: "#ffffff"
   error_color: "#D64541"
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
-  title_font: '"Muli", sans-serif'
-  body_font: '"Muli", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Fira:300,400,600,700" rel="stylesheet">'
+  title_font: '"Fira", sans-serif'
+  body_font: '"Fira", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:

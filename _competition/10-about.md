@@ -3,7 +3,7 @@ title: "Der Wettbewerb"
 subtitle: "Worum geht es?"
 date: 2021-09-29 13:30:00
 description: Der InformatiCup wird von der Gesellschaft für Informatik (GI) veranstaltet und fordert Studierende heraus, sich eigenständig in neue Technologien einzuarbeiten und aus dem erarbeiteten Wissen in Teamarbeit Problemlösungen zu entwickeln.<p>Die Aufgabenstellung erfordert theoretisches Wissen, die Befähigung zu wissenschaftlichen Problemlösungen sowie moderne Präsentationstechniken.</p><p>Der Wettbewerb findet seit 2006 jährlich statt und wird von renommierten Unternehmen unterstützt. Zu gewinnen gibt es attraktive Geldpreise.</p>
-featured_image: "/images/informaticup-icon.png"
+featured_image: "/images/informaticup-logo-icon.svg"
 ---
 
 ## Worum geht es?
@@ -47,5 +47,5 @@ Sie möchten die Teilnehmer am InformatiCup fördern und den Studierendenwettbew
 Aktuelle Informationen über das InformatiCup-Sponsoring sind [hier](https://github.com/informatiCup/informatiCup2023/blob/b48266a32fd612fa12230a04d05766ef17354184/partnerschaft_informatiCup2023.pdf) zusammengefasst.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/competition/informaticup-logo-with-text.png">
+	<img src="/images/informaticup-logo.svg">
 </div>
