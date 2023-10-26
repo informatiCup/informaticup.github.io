@@ -16,7 +16,7 @@ Die Jury des Wettbewerbs besteht aus ehrenamtlichen GI-Mitgliedern aus Wissensch
 - Jens Lechtenbörger, [Universität Münster](https://www.wi.uni-muenster.de/de/institut/dbis/personen/jens-lechtenboerger)
 - Katharina Mulack, [Netlight Consulting GmbH](https://www.netlight.com/)
 - [Philipp Naumann](https://github.com/bitflipp), [Hamburger Hochbahn AG](https://www.hochbahn.de/)
-- [Johannes Nicolai](https://github.com/jonico), [PlanetScale Inc.](https://planetscale.com/)
+- [Johannes Nicolai](https://github.com/jonico), [Postman Inc.](https://www.postman.com/)
 - Sebastian Otte, [Universität Tübingen](http://cm.inf.uni-tuebingen.de/staff/otte)
 - [Alexander Paar](https://github.com/AlexPaar) (Sprecher), [Duale Hochschule Schleswig-Holstein](https://www.dhsh.de/)
 - Curd Reinert, [PPI AG](https://www.ppi.de/)
