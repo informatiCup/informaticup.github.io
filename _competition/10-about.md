@@ -44,7 +44,7 @@ Die GI empfiehlt dafür die Vergabe von mindestens vier ECTS-Punkten pro Mitglie
 
 Sie möchten die Teilnehmer am InformatiCup fördern und den Studierendenwettbewerb der Gesellschaft für Informatik unterstützen?
 
-Aktuelle Informationen über das InformatiCup-Sponsoring sind [hier](https://github.com/informatiCup/informatiCup2023/blob/b48266a32fd612fa12230a04d05766ef17354184/partnerschaft_informatiCup2023.pdf) zusammengefasst.
+Aktuelle Informationen über das InformatiCup-Sponsoring sind [hier](https://github.com/informatiCup/informatiCup2024/blob/72c720fe7764ceebf4a7da81de1f2fe3a7965b4d/Sponsoring.pdf) zusammengefasst.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/informaticup-logo.svg">
