@@ -10,7 +10,6 @@ featured_image: /images/informaticup.jpg
 <a href="https://pledoc.de/">
 <img border="0" alt="PLEdoc GmbH" src="/images/sponsors/pledoc400.png">
 </a>
-</p>
 
 
 ## Wettbewerbspartner
@@ -18,7 +17,6 @@ featured_image: /images/informaticup.jpg
 <a href="http://www.postman.com/">
 <img border="0" alt="	Postman Inc." src="/images/sponsors/postman.png">
 </a>
-</p>
 
 ## Sponsoring
 
