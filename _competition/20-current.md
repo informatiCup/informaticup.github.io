@@ -12,7 +12,7 @@ featured_image: "/images/challenges/fool-ai-detectors.png"
 
 **14\. Januar 2024 (einschl. 23:59 Uhr)**: Ende der Annahme der vollständigen Lösung
 
-**April 2024**: InformatiCup-Finale
+**25\. April 2024**: [InformatiCup-Finale](https://gi.de/veranstaltung/informaticup-2024-die-endrunde) in der Zeche Zollverein
 
 ## Teilnahme am aktuellen Wettbewerb
 
