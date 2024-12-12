@@ -2,7 +2,7 @@
 title: "InformatiCup 2025"
 subtitle: "Der kommende Wettbewerb"
 date: 2024-12-12 17:00:00
-description: Open Source
+description: "Open Source"
 featured_image: "/images/challenges/open-source.png"
 ---
 
