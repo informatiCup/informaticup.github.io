@@ -6,10 +6,8 @@ description: Open Source
 featured_image: "/images/challenges/open-source.png"
 ---
 
-<p style="margin-bottom:20px;">Die Aufgabe des <a href="https://github.com/informatiCup/informatiCup2024">InformatiCup 2024</a> ist <a href="https://github.com/informatiCup/informatiCup2024/blob/97d3fc6971a5f2fbd2ff340a52cf90f8821666fd/informatiCup%202024%20-%20Fool%20AI%20Detectors.pdf">Fool AI Detectors</a></p>
+<p style="margin-bottom:20px;">Die Aufgabe des <a href="https://github.com/informatiCup/informatiCup2025">InformatiCup 2025</a> wird einen starken Bezug zu Open Source haben</p>
 
-Die Aufgabe [Fool AI Detectors](https://github.com/informatiCup/informatiCup2024/blob/97d3fc6971a5f2fbd2ff340a52cf90f8821666fd/informatiCup%202024%20-%20Fool%20AI%20Detectors.pdf) besteht aus zwei Teilen.
+Die genaue Aufgabenstellung für den InformatiCup 2025 wird zwar erst am 31. Januar 2025 bekanntgegeben, aber bis dahin teilen wir regelmäßig exklusive Hinweise, die euch bei der Lösung der Aufgabe helfen könnten.
 
-Im ersten Teil sollen in Form einer technischen Marktanalyse vorhandene Modelle, die für die Erzeugung von Texten und Bildern genutzt werden können, und ebenso Modelle und Algorithmen für die Detektion von generierten Inhalten untersucht werden.
-
-Im zweiten Teil soll ein Programm, das durch möglichst minimale Änderungen von KI-generierten Texten und Bildern bestehende KI-Detektoren austricksen kann, entwickelt werden.
+<a href="https://informaticup.gi.de/newsletter">Meldet euch jetzt an</a> und sichert euch den Wissensvorsprung und damit die besten Chancen auf den Sieg!
