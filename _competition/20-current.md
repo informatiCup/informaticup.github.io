@@ -6,7 +6,7 @@ description: Fool AI Detectors
 featured_image: "/images/challenges/fool-ai-detectors.png"
 ---
 
-## Zeitplan des aktuellen Wettbewerbs
+## Zeitplan des Wettbewerbs
 
 **28\. September 2023**: Start des Wettbewerbs mit der Veröffentlichung der aktuellen [Aufgabe](https://github.com/informatiCup/informatiCup2024/blob/97d3fc6971a5f2fbd2ff340a52cf90f8821666fd/informatiCup%202024%20-%20Fool%20AI%20Detectors.pdf) und dem Aufruf zur Teilnahme
 
@@ -14,7 +14,7 @@ featured_image: "/images/challenges/fool-ai-detectors.png"
 
 **25\. April 2024**: [InformatiCup-Finale](https://gi.de/veranstaltung/informaticup-2024-die-endrunde) in der Zeche Zollverein
 
-## Teilnahme am aktuellen Wettbewerb
+## Teilnahme am Wettbewerb
 
 Die Anmeldung zum Wettbewerb findet über das Online-Portal [Teammates](https://teams.informaticup.de/) statt.
 
