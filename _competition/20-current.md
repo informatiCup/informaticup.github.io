@@ -8,7 +8,7 @@ featured_image: "/images/challenges/open-source.png"
 
 ## Zeitplan des Wettbewerbs
 
-**31\. Januar 2024**: [Bekanntgabe der Aufgabe](https://informaticup.gi.de/) und Aufruf zur Teilnahme
+**31\. Januar 2025**: [Bekanntgabe der Aufgabe](https://informaticup.gi.de/) und Aufruf zur Teilnahme
 
 **Februar bis Juni 2025**: Aufgabenbearbeitung
 
