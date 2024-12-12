@@ -1,4 +1,12 @@
-informatiCup 2024: Finale ante portas!
+---
+title: "InformatiCup 2024: Finale ante portas!"
+subtitle: InformatiCup 2024
+date: 2024-06-206 00:00:00
+description: "InformatiCup 2024: Finale ante portas!"
+featured_image: "/images/blog/fool-ai-detectors.png"
+---
+
+**informatiCup 2024: Finale ante portas!**
 
 Der 19. Studierendenwettbewerb der GI geht am 25. April ins Finale. Die Jury des Wettbewerbs hat die drei besten Teams eingeladen, ihre Lösungen zu präsentieren.
 

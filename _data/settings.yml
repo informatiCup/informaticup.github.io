@@ -18,13 +18,8 @@ menu_settings:
       url: "/finals/"
     - title: "Wettbewerb"
       url: "/"
-    - title: "Teilnehmer"
-      url: "https://teams.informaticup.de/"
     - title: "Sponsoren"
       url: "/sponsors"
-    - title: "Kontakt"
-      url: "/contact"
-
 footer_settings:
   footer_tagline:
 
