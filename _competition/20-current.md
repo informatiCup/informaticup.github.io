@@ -1,6 +1,6 @@
 ---
 title: "InformatiCup 2024"
-subtitle: "Der aktuelle Wettbewerb"
+subtitle: "Der letzte Wettbewerb"
 date: 2023-09-26 17:00:00
 description: Fool AI Detectors
 featured_image: "/images/challenges/fool-ai-detectors.png"
