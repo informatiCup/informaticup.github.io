@@ -16,4 +16,4 @@ featured_image: "/images/challenges/open-source.png"
 
 ## Preisgelder
 
-Nicht nur dass es Freude macht, mit Gleichgesinnten, hochschulübegreifend und vielleicht interdisziplinär an einer Informatik-Herausforderung zu arbeiten, ermöglichen die [Unternehmenspartner](/sponsors) des InformatiCup auch attraktive Geldpreise bis zu 2000 Euro.
+Nicht nur dass es Freude macht, mit Gleichgesinnten, hochschulübegreifend und vielleicht interdisziplinär an einer Informatik-Herausforderung zu arbeiten, ermöglichen die Unternehmenspartner des InformatiCup auch attraktive Geldpreise bis zu 2000 Euro.
