@@ -1,7 +1,7 @@
 ---
 title: "InformatiCup 2024: Finale ante portas!"
 subtitle: InformatiCup 2024
-date: 2024-06-206 00:00:00
+date: 2024-06-06 00:00:00
 description: "InformatiCup 2024: Finale ante portas!"
 featured_image: "/images/blog/fool-ai-detectors.png"
 ---
