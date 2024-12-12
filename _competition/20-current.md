@@ -20,8 +20,4 @@ Die Anmeldung zum Wettbewerb findet über das Online-Portal [Teammates](https://
 
 ## Preisgelder
 
-Nicht nur dass es Freude macht, mit Gleichgesinnten, hochschulübegreifend und vielleicht interdisziplinär an einer Informatik-Herausforderung zu arbeiten, ermöglichen die [Unternehmenspartner](/sponsors) des InformatiCup auch attraktive Geldpreise.
-
-1. Preis: 4.000 EUR
-2. Preis: 2.000 EUR
-3. Preis: 1.000 EUR
+Nicht nur dass es Freude macht, mit Gleichgesinnten, hochschulübegreifend und vielleicht interdisziplinär an einer Informatik-Herausforderung zu arbeiten, ermöglichen die [Unternehmenspartner](/sponsors) des InformatiCup auch attraktive Geldpreise bis zu 2000 Euro.
