@@ -16,7 +16,7 @@ Die Jury des Wettbewerbs besteht aus ehrenamtlichen GI-Mitgliedern aus Wissensch
 - Katharina Mulack, [Netlight Consulting GmbH](https://www.netlight.com/)
 - [Philipp Naumann](https://github.com/bitflipp), [Hamburger Hochbahn AG](https://www.hochbahn.de/)
 - [Johannes Nicolai](https://github.com/jonico) (Sprecher), [Postman Inc.](https://www.postman.com/)
-- [Alexander Paar](https://github.com/AlexPaar), [Duale Hochschule Schleswig-Holstein](https://www.dhsh.de/)
+- [Alexander Paar](https://github.com/AlexPaar) (Gründer), [Duale Hochschule Schleswig-Holstein](https://www.dhsh.de/)
 - [Manuel Pozor](https://github.com/ManuelPozor)
 - David Rochholz, [Netlight Consulting GmbH](https://www.netlight.com/)
 - Henrik Sendt
