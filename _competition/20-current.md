@@ -1,6 +1,6 @@
 ---
-title: "Participate in the Open - Make your Team OSS Contribution"
-subtitle: "Der laufende Wettbewerb"
+title: "Participate in the Open"
+subtitle: "Make your Team OSS Contribution"
 date: 2024-12-12 00:00:00
 description: Open Source
 featured_image: "/images/challenges/open-source.png"
