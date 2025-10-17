@@ -7,6 +7,15 @@ featured_image: /images/informaticup.jpg
 
 Jedes Jahr erstellen Teams mit viel Know-how und Engagement Lösungen für die anspruchsvollen InformatiCup-Aufgaben. Dies hier ist Eure Seite wenn Ihr Eure [InformatiCup-Lösung](/challenges/) sichtbar machen wollt. Erstellt dazu Euren [Eintrag](https://guides.github.com/features/mastering-markdown/) auf dieser Seite einfach selbst und stellt einen [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests). Für Fragen und Anmerkungen gibt es die [Issues](https://github.com/informatiCup/informaticup.github.io/issues).
 
+## InformatiCup 2025 ##
+
+| Hochschule | Team | Pull Request | Kurzbeschreibung |
+|------------|------|--------------|------------------|
+| Nordakademie Hochschule der Wirtschaft | Team Lufthamsdaa | [FileExplorer Enhancement](https://github.com/conaticus/FileExplorer/pull/92) | Verbessert den Open-Source FileExplorer mit VIBE-Workflows und umfangreichen UX-Anpassungen. |
+| Universität Potsdam | Team UP-Elite | [ASP Language Support Extension](https://github.com/CaptainUnbrauchbar/asp-language-support/pull/58) | Vereinfacht die ASP-Toolchain durch einen One-Click-Installer und neue VS-Code-Funktionen. |
+| Technische Universität Berlin | Team 'team name not licensed under the GPL3' | [NumDot Boids Algorithm](https://github.com/Ivorforce/NumDot/pull/171) | Ergänzt die NumDot-Bibliothek um einen performanten Boids-Algorithmus inklusive Godot-Demo. |
+| Technische Hochschule Ingolstadt | Team Jellyfin | [Discord Rich Presence Integration](https://github.com/jellyfin/jellyfin-media-player/pull/948) | Bringt plattformübergreifende Discord Rich Presence Unterstützung in den Jellyfin Media Player samt API-Anbindung. |
+
 ## InformatiCup 2021 ##
 
 | Hochschule                   | Repository                                                                   | Präsentation                                                                                                                                                                       | GitHub Handles                            |
